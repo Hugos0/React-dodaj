@@ -1,0 +1,29 @@
+.EdycjaLekcji{
+    margin-top: 20px;
+    color: #333333;
+    font-weight: bold;
+    text-align: center;
+}
+.EdycjaLekcji_input-grupa{
+    width: 30%;
+    margin-left: 35%;
+    margin-right: 35%;
+}
+.EdycjaLekcji input{
+    background-color: rgb(190, 100, 120);
+    color: #FFFFFF;
+    font-weight: bold;
+    text-shadow: 0 0 1px #FFFFFF;
+    border: 0;
+    float: right;
+}
+.EdycjaLekcji button{
+    background-color: rgb(150, 80, 110);
+    margin: 5px;
+    border-radius: 20%;
+    box-shadow: 3px 3px 1px #333333;
+    color: #888888;
+    font-weight: bold;
+    border: 0;
+
+}
